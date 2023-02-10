@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/551038412.svg)](https://zenodo.org/badge/latestdoi/551038412)
+
 # Public sites data collection
 This repository contains data collected for 9 developing and 9 developed countries (public sites as well as the top 100 sites). The data collected inclues:
 - Page sizes
